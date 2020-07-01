@@ -1,1 +1,4 @@
 -Dudas Git
+- Ficheros de configuración subidos, cómo quitarlos una vez subidos
+- Al mergear mi rama de desarrollo con la del compañero me obliga a hacer commit and push
+- Al traerme otra rama, luego no me deja ejecutar el proyecto
