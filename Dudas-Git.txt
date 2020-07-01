@@ -4,3 +4,4 @@
 - Al traerme otra rama, luego no me deja ejecutar el proyecto
 -no puedo darle al run, hay que cerrar y volver a abrir. salen Jotas en rojo
 -bin no se sube?
+-otra duda
