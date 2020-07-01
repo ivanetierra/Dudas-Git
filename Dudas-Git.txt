@@ -4,4 +4,8 @@
 - Al traerme otra rama, luego no me deja ejecutar el proyecto
 -no puedo darle al run, hay que cerrar y volver a abrir. salen Jotas en rojo
 -bin no se sube?
+<<<<<<< HEAD
 - en algún momento no se pudo subir el proyecto entero porque git no encontraba cambios, sin embargo sí que habían. Como solución se forzó la subida, pero esto hizl que se duplicaran los ficheros y quedaran fuera dedel src 
+=======
+-otra duda
+>>>>>>> rama_ivan
