@@ -1,9 +1,14 @@
 ﻿-Dudas Git
 - Ficheros de configuración subidos, cómo quitarlos una vez subidos
+
 - Al mergear mi rama de desarrollo con la del compañero me obliga a hacer commit and push
+
 - Al traerme otra rama, luego no me deja ejecutar el proyecto
--no puedo darle al run, hay que cerrar y volver a abrir. salen Jotas en rojo
--bin no se sube?
+
+-no puedo darle al run, hay que cerrar y volver a abrir.
+- Si abres un proyecto con Open, salen Jotas en rojo al lado del nombre de cada fichero, como si no fuese Java. para arreglarlo abro el proyecto como New-> file from existing sources pero no creo que sea lo correcto hacerlo cada vez.
+
+-bin no se sube? que es lo que hay que subir y que no
 <<<<<<< HEAD
 - en algún momento no se pudo subir el proyecto entero porque git no encontraba cambios, sin embargo sí que habían. Como solución se forzó la subida, pero esto hizl que se duplicaran los ficheros y quedaran fuera dedel src 
 =======
